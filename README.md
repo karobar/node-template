@@ -1,4 +1,4 @@
-# Node Template
+# Node (Vanilla JS) Template
 
 Clone this repo.
 
